@@ -1,0 +1,5 @@
+int qwe = 3;
+int asd = (int, abstract(2));
+int zxc = qwe + asd;
+if (zxc < 5) { qwe = 1; } else {qwe = 2;}
+assert qwe == 1;

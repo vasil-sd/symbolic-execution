@@ -1,0 +1,6 @@
+if ((bool, abstract(0))) { 
+  assert true;
+} else {
+  assert true;
+}
+assert false;
